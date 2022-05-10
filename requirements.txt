@@ -1,6 +1,7 @@
 # TODO: Update with exact module version
 numpy
 torch>=1.7
+tensorflow>=2.4
 opencv_python
 loguru
 scikit-image
